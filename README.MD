@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-    <audio src="/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="/Episodio 1 narrado pela Inteligencia Artificial Brittney.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
