@@ -1,6 +1,6 @@
 
 <p align="center">
-    [preview do podcast] (https://github.com/karengiovanna/prompts-for-podcast-generate-by-ia/blob/c04b580f97ff07cc39d0e7cb123702c125b30051/Episodio%201%20narrado%20pela%20Inteligencia%20Artificial%20Brittney.mp3)
+    <a href="https://github.com/karengiovanna/prompts-for-podcast-generate-by-ia/blob/c04b580f97ff07cc39d0e7cb123702c125b30051/Episodio%201%20narrado%20pela%20Inteligencia%20Artificial%20Brittney.mp3">preview do podcast</a>
 </p>
 
 <div align="center">
